@@ -1,4 +1,4 @@
-## 硅谷听书后台管理系统
+## 听书后台管理系统
 
 采用 vue3 全家桶（vite+pinia+element-plus+vue-router@4）
 
